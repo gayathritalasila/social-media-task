@@ -1,0 +1,23 @@
+/* Add your custom styles if necessary */
+.help-page {
+    background-color: #f7fafc;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .help-page section {
+    margin-bottom: 30px;
+  }
+  
+  .help-page h2 {
+    margin-bottom: 10px;
+  }
+  
+  .help-page ul {
+    margin-left: 20px;
+  }
+  
+  .help-page ul li {
+    margin-bottom: 5px;
+  }
+  

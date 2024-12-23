@@ -1,0 +1,41 @@
+{
+  "name": "social-media-task",
+  "version": "1.0.0",
+  "description": "This social media application is a modern, mobile first platform designed to provide a seamless and engagging experience for users to connect, share, and interact with content in real time. With an intuitive interface for optimized for both mobile and tablet devices, the application replicates the feel of native mobile social performances while being accessible via the web.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest",
+    "watch-test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gayathritalasila/social-media-task.git"
+  },
+  "author": "Gayathri Talasila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gayathritalasila/social-media-task/issues"
+  },
+  "homepage": "https://github.com/gayathritalasila/social-media-task#readme",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.5.0",
+    "autoprefixer": "^10.4.20",
+    "firebase": "^11.1.0",
+    "postcss": "^8.4.49",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.11.2",
+    "react-webcam": "^7.2.0",
+    "redux": "^5.0.1",
+    "tailwindcss": "^3.4.17"
+  }
+}
