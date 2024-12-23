@@ -2,7 +2,6 @@
   "name": "social-media-task",
   "version": "1.0.0",
   "description": "This social media application is a modern, mobile first platform designed to provide a seamless and engagging experience for users to connect, share, and interact with content in real time. With an intuitive interface for optimized for both mobile and tablet devices, the application replicates the feel of native mobile social performances while being accessible via the web.",
-  "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
